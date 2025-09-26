@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Drive Lab"
+logo: /assets/img/logo.png   # you can replace this with your lab logo later
+description: "Research group led by Dr. Zelmar Rodriguez – College of Veterinary Medicine, Michigan State University."
+show_downloads: false
+google_analytics:    # leave blank unless you want to add a tracking ID
 theme: jekyll-theme-minimal
+
+author:
+  name: "Dr. Zelmar Rodriguez"
+  email: "zelmar01@msu.edu"
+
+social_links:
+  github: varghesebibin
+  linkedin: https://www.linkedin.com/in/zelmar-rodriguez/
+  google_scholar: https://scholar.google.com/citations?user=ThwCcEwAAAAJ&hl=en
