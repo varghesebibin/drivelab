@@ -35,11 +35,15 @@ Research focus: Data pipelines, epidemiological modeling, and integration of vet
 ### **Lucía Martínez Penedo**  
 Doctor of Veterinary Medicine  
 
+![*Lucía Martínez Penedo](/assets/img/lucia.jpg){: style="width:150px; border-radius:50%; margin-top:10px;"}
+
 Research focus: Highly Pathogenic Avian Influenza (HPAI H5N1) in dairy cattle, with emphasis on zoonotic risk and One Health.
 
 ---
 
 ### **Kakolee Keya Mohanto**  
-Doctor of Veterinary Medicine  
+Doctor of Veterinary Medicine 
+
+![Kakolee Keya Mohanto](/assets/img/keya.jpg){: style="width:150px; border-radius:50%; margin-top:10px;"} 
 
 Research focus: Highly Pathogenic Avian Influenza (HPAI H5N1) in dairy cattle, with emphasis on zoonotic risk and One Health.
