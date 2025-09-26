@@ -1,4 +1,12 @@
----
----
+/* Light blue background for the whole site */
+body {
+  background-color: #f0f8ff;  /* AliceBlue - soft light blue */
+}
 
-@import "jekyll-theme-minimal";
+/* Optional: make content boxes stand out */
+.main-content {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
