@@ -18,7 +18,7 @@ title: Team
 
 College of Veterinary Medicine, Michigan State University  
 
-\[Google Scholar](https://scholar.google.com/) | \[LinkedIn](https://www.linkedin.com/)
+\[Google Scholar](https://scholar.google.com/citations?user=ThwCcEwAAAAJ&hl=en) | \[LinkedIn](https://www.linkedin.com/in/zelmar-rodriguez//)
 
 
 
