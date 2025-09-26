@@ -5,6 +5,8 @@ title: Drive Lab
 
 # Welcome to the Drive Lab
 
+![Dr. Zelmar Rodriguez](assets/img/zelmar.jpg){: style="width:200px; border-radius:50%;"} 
+
 We are a research group led by **Dr. Zelmar Rodriguez** at the **College of Veterinary Medicine, Michigan State University**.  
 Our mission is to combine **data science, veterinary medicine, and epidemiology** to improve animal health and support sustainable farming.  
 
